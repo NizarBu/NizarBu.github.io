@@ -1,5 +1,9 @@
 table {
-
+color: white;
 }
 
 td{  border: 3px solid blue;}
+
+ul {
+  color: white;
+}
